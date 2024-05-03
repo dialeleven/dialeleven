@@ -9,7 +9,7 @@ I am a Web Developer specialzing in the LAMP stack (Linux, Apache, PHP, MySQL).
 ## Tech Stack
 **Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=php,mysql)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,mysql)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=html,css,js,BLANK,jquery,laravel)](https://skillicons.dev)
 
 **Frameworks**
 
