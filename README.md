@@ -29,7 +29,7 @@ I am a Web Developer specialzing in the LAMP stack (Linux, Apache, PHP, MySQL).
   - Navigating through the world of Laravel Framework
  
 ## 🤔 Future Skill Upgrades
-- (https://skillicons.dev/icons?i=react,vue,nodejs,tailwind)]
+[![My Skills](https://skillicons.dev/icons?i=react,vue,nodejs,tailwind)](https://skillicons.dev)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
