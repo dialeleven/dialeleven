@@ -2,10 +2,12 @@
 
 I am a Web Developer specialzing in the LAMP stack (Linux, Apache, PHP, MySQL).
 
+<!--
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=dialeleven&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+-->
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=php,regex,laravel,MySQL,html,CSS,js,jquery,git,github,vscode,Wordpress,windows,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,regex,laravel,mysql,html,css,js,jquery,git,github,vscode,Wordpress,windows,linux)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
