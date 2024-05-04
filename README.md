@@ -14,8 +14,8 @@ I am a Web Developer specialzing in the LAMP stack (Linux, Apache, PHP, MySQL).
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Navigating through the world of Laravel Framework
+- 🚀 Navigating through the world of Laravel Framework
+- Poking around with React
  
 ## 🤔 Future Skill Upgrades
 [![My Skills](https://skillicons.dev/icons?i=react,vue,nodejs,tailwind,symfony,django,ts,mongodb)](https://skillicons.dev)
