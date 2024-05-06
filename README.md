@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Web Developer specialzing in the LAMP stack (Linux, Apache, PHP, MySQL).
+I am a Web Developer specializing in the LAMP stack (Linux, Apache, PHP, MySQL).
 
 <!--
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=dialeleven&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
