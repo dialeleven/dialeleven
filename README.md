@@ -1,4 +1,4 @@
-### 👋 Hi there!
+## 👋 Hi there!
 
 I'm Francis, a passionate web developer with a love for building innovative software solutions. I specialize in backend development, with expertise with the LAMP stack (Linux, Apache, PHP, MySQL). I'm also involved in frontend development (HTML5, CSS3, JavaScript) and working towards fullstack development.
 
@@ -6,16 +6,18 @@ On my GitHub, you'll find a collection of projects where I've applied my skills 
 
 <!-- [<username>'s Stats](https://github-readme-stats.vercel.app/api?username=dialeleven&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 
-## :abacus: Tech Stack
+## My Skills
+
+### :abacus: Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=php,mysql,postgres,html,css,js,jquery,laravel,wordpress)](https://skillicons.dev)
 
-## 🛠️ Source Code Management
+### 🛠️ Source Code Management
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
-## :floppy_disk: Software/Tools
+### :floppy_disk: Software/Tools
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,npm,vscode,vim,figma,ps)](https://skillicons.dev)
 
-## :computer: Operating Systems
+### :computer: Operating Systems
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,apple)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
