@@ -2,9 +2,9 @@
 
 I am a Web Developer specializing in the LAMP stack (Linux, Apache, PHP, MySQL).
 
-<!--
+
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=dialeleven&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
--->
+
 
 ## :abacus: Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=php,mysql,postgres,html,css,js,jquery,laravel,wordpress)](https://skillicons.dev)
