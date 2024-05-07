@@ -6,22 +6,22 @@ On my GitHub, you'll find a collection of projects where I've applied my skills 
 
 <!-- [<username>'s Stats](https://github-readme-stats.vercel.app/api?username=dialeleven&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 
-## My Skills
+## :computer: My Skills
 
-### :abacus: Tech Stack
+#### :abacus: Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=php,mysql,postgres,html,css,js,jquery,laravel,wordpress)](https://skillicons.dev)
 
-### 🛠️ Source Code Management
+#### 🛠️ Source Code Management
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
-### :floppy_disk: Software/Tools
+#### :floppy_disk: Software/Tools
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,npm,vscode,vim,figma,ps)](https://skillicons.dev)
 
-### :computer: Operating Systems
+#### :computer: Operating Systems
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,apple)](https://skillicons.dev)
 
-## 🌱 Currently Exploring
 
+## 🌱 Currently Exploring
 - 🚀 Navigating through the world of Laravel Framework
 - Poking around with React
  
