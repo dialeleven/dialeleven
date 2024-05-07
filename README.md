@@ -7,7 +7,13 @@ I am a Web Developer specializing in the LAMP stack (Linux, Apache, PHP, MySQL).
 -->
 
 ## :abacus: Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=php,mysql,postgres,html,css,js,jquery,laravel,git,github,bootstrap,npm,vscode,vim,wordpress,ps,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,mysql,postgres,html,css,js,jquery,laravel,wordpress)](https://skillicons.dev)
+
+## 🛠️: Source Code Management
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+## :floppy_disk: Software/Tools
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,npmvscode,vim,figma,ps)](https://skillicons.dev)
 
 ## :computer: Operating Systems
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,apple)](https://skillicons.dev)
