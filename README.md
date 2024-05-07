@@ -13,7 +13,7 @@ I am a Web Developer specializing in the LAMP stack (Linux, Apache, PHP, MySQL).
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 ## :floppy_disk: Software/Tools
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,npmvscode,vim,figma,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,npm,vscode,vim,figma,ps)](https://skillicons.dev)
 
 ## :computer: Operating Systems
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,apple)](https://skillicons.dev)
