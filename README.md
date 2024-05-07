@@ -1,4 +1,4 @@
-## 👋 Hi there!
+## 👋 Hi, There!
 
 I'm Francis, a passionate web developer with a love for building innovative software solutions. I specialize in backend development, with expertise with the LAMP stack (Linux, Apache, PHP, MySQL). I'm also involved in frontend development (HTML5, CSS3, JavaScript) and working towards fullstack development.
 
