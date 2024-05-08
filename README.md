@@ -32,10 +32,11 @@ On my GitHub, you'll find a collection of projects where I've applied my skills 
 - React, react-hook-form
 - Vue
 - Node.js
-- Symfony
-- MongoDB
 - Tailwind CSS
+- Symfony
+- Django
 - TypeScript
+- MongoDB
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
