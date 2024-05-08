@@ -28,6 +28,14 @@ On my GitHub, you'll find a collection of projects where I've applied my skills 
 ## 🤔 Future Skill Upgrades
 [![My Skills](https://skillicons.dev/icons?i=react,vue,nodejs,tailwind,symfony,django,ts,mongodb)](https://skillicons.dev)
 
+** Text Version **
+- React, react-hook-form
+- Vue
+- Node.js
+- Symfony
+- MongoDB
+- Tailwind CSS
+- TypeScript
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
