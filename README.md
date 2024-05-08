@@ -26,7 +26,7 @@ On my GitHub, you'll find a collection of projects where I've applied my skills 
 - Poking around with React
  
 ## 🤔 Future Skill Upgrades
-[![My Skills](https://skillicons.dev/icons?i=react,vue,nodejs,tailwind,symfony,django,ts,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,nodejs,tailwind,symfony,django,ts,redis,mongodb)](https://skillicons.dev)
 
 **Text Version**
 - React, react-hook-form
@@ -34,6 +34,7 @@ On my GitHub, you'll find a collection of projects where I've applied my skills 
 - Node.js
 - Tailwind CSS
 - Symfony
+- Redis
 - Django
 - TypeScript
 - MongoDB
