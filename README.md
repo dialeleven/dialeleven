@@ -34,7 +34,7 @@ On my GitHub, you'll find a collection of projects where I've applied my skills 
 - Node.js
 - Tailwind CSS
 - Symfony
-- Redis [Redis in Laravel](https://laravel.com/docs/11.x/redis), [Redis in PHP](https://github.com/phpredis/phpredis/blob/develop/INSTALL.md)
+- Redis ([Redis in Laravel](https://laravel.com/docs/11.x/redis), [Redis in PHP](https://github.com/phpredis/phpredis/blob/develop/INSTALL.md))
 - Django
 - TypeScript
 - MongoDB
