@@ -9,7 +9,7 @@ On my GitHub, you'll find a collection of projects where I've applied my skills 
 ## :computer: My Skills
 
 #### :abacus: Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=php,mysql,postgres,html,css,js,jquery,laravel,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,mysql,postgres,html,css,tailwind,js,jquery,laravel,wordpress)](https://skillicons.dev)
 
 #### 🛠️ Source Code Management
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
@@ -26,13 +26,12 @@ On my GitHub, you'll find a collection of projects where I've applied my skills 
 - Poking around with React
  
 ## 🤔 Future Skill Upgrades
-[![My Skills](https://skillicons.dev/icons?i=react,vue,nodejs,tailwind,symfony,django,ts,redis,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,nodejs,symfony,django,ts,redis,mongodb)](https://skillicons.dev)
 
 **Text Version**
 - React, react-hook-form
 - Vue
 - Node.js
-- Tailwind CSS
 - Symfony
 - Redis ([Redis in Laravel](https://laravel.com/docs/11.x/redis), [Redis in PHP](https://github.com/phpredis/phpredis/blob/develop/INSTALL.md))
 - Django
