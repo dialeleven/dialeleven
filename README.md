@@ -22,16 +22,16 @@ On my GitHub, you'll find a collection of projects where I've applied my skills 
 
 
 ## 🌱 Currently Exploring
-- 🚀 Navigating through the world of Laravel Framework
-- Poking around with React
+- 🚀 Navigating through the world of Laravel Framework and Tailwind CSS
+- On queue: Check out React & react-hook-form, Docker, Netlify
  
 ## 🤔 Future Skill Upgrades
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,react,vue,nodejs,symfony,django,ts,redis,mongodb,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,react,vue,nodejs,symfony,django,ts,redis,mongodb,docker,netlify)](https://skillicons.dev)
 
 **Text Version**
 - [Bootstrap](https://getbootstrap.com/)
 - React, react-hook-form
-- Vue
+- Vue, Vueform
 - Node.js
 - Symfony
 - Redis ([Redis in Laravel](https://laravel.com/docs/11.x/redis), [Redis in PHP](https://github.com/phpredis/phpredis/blob/develop/INSTALL.md))
@@ -39,6 +39,7 @@ On my GitHub, you'll find a collection of projects where I've applied my skills 
 - TypeScript
 - MongoDB
 - Docker
+- Netlify
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
