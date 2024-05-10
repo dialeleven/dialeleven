@@ -15,7 +15,7 @@ On my GitHub, you'll find a collection of projects where I've applied my skills 
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 #### :floppy_disk: Software/Tools
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,npm,vscode,vim,figma,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=npm,vscode,vim,figma,ps)](https://skillicons.dev)
 
 #### :computer: Operating Systems
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,apple)](https://skillicons.dev)
@@ -26,9 +26,10 @@ On my GitHub, you'll find a collection of projects where I've applied my skills 
 - Poking around with React
  
 ## 🤔 Future Skill Upgrades
-[![My Skills](https://skillicons.dev/icons?i=react,vue,nodejs,symfony,django,ts,redis,mongodb,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,react,vue,nodejs,symfony,django,ts,redis,mongodb,docker)](https://skillicons.dev)
 
 **Text Version**
+- [Bootstrap](https://getbootstrap.com/)
 - React, react-hook-form
 - Vue
 - Node.js
