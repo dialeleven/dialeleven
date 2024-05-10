@@ -9,7 +9,7 @@ On my GitHub, you'll find a collection of projects where I've applied my skills 
 ## :computer: My Skills
 
 #### :abacus: Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=php,mysql,postgres,html,css,tailwind,js,jquery,laravel,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,postgres,html,css,tailwind,js,jquery,wordpress)](https://skillicons.dev)
 
 #### 🛠️ Source Code Management
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
