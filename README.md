@@ -40,6 +40,7 @@ On my GitHub, you'll find a collection of projects where I've applied my skills 
 - MongoDB
 - Docker
 - Netlify
+- [Laravel Dusk](https://laravel.com/docs/11.x/dusk)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
