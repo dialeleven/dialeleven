@@ -39,8 +39,8 @@ On my GitHub, you'll find a collection of projects where I've applied my skills 
 - TypeScript
 - MongoDB
 - Docker
-- Netlify
-- [Laravel Dusk](https://laravel.com/docs/11.x/dusk)
+- Netlify (deploy site(s) to [Netlify](https://app.netlify.com))
+- [Laravel Dusk](https://laravel.com/docs/11.x/dusk) browser tests
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
