@@ -9,7 +9,7 @@ On my GitHub, you'll find a collection of projects where I've applied my skills 
 ## :computer: My Skills
 
 #### :abacus: Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,postgres,html,css,tailwind,js,jquery,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,postgres,html,css,tailwind,bootstrap,js,jquery,wordpress)](https://skillicons.dev)
 
 #### 🛠️ Source Code Management
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
@@ -26,19 +26,21 @@ On my GitHub, you'll find a collection of projects where I've applied my skills 
 - On queue: Check out React & react-hook-form, Docker, Netlify
  
 ## 🤔 Future Skill Upgrades
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,react,vue,nodejs,symfony,django,ts,redis,mongodb,docker,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,nodejs,express,symfony,django,ts,redis,mongodb,docker,kubernetes,jenkins,netlify)](https://skillicons.dev)
 
 **Text Version**
-- [Bootstrap](https://getbootstrap.com/)
 - React, react-hook-form
 - Vue, Vueform
 - Node.js
+- Express
 - Symfony
 - Redis ([Redis in Laravel](https://laravel.com/docs/11.x/redis), [Redis in PHP](https://github.com/phpredis/phpredis/blob/develop/INSTALL.md))
 - Django
 - TypeScript
 - MongoDB
 - Docker
+- Kubernetes
+- Jenkins
 - Netlify (deploy site(s) to [Netlify](https://app.netlify.com))
 - [Deployer](https://deployer.org/)
 - [Laravel Dusk](https://laravel.com/docs/11.x/dusk) browser tests
