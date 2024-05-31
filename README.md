@@ -42,7 +42,6 @@ On my GitHub, you'll find a collection of projects where I've applied my skills 
 - Kubernetes
 - Jenkins
 - Netlify (deploy site(s) to [Netlify](https://app.netlify.com))
-- [Deployer](https://deployer.org/)
 - [Laravel Dusk](https://laravel.com/docs/11.x/dusk) browser tests
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
