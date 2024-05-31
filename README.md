@@ -1,6 +1,6 @@
 ## 👋 Hi, There!
 
-I'm Francis, a passionate web developer with a love for building innovative software solutions. I specialize in backend development, with expertise in the LAMP stack (Linux, Apache, PHP, MySQL). I'm also involved in frontend development (HTML5, CSS3, JavaScript) and working towards full-stack development.
+I'm Francis, a passionate web developer with a love for building innovative software solutions. I specialize in backend development, with expertise in the LAMP stack (Linux, Apache, PHP, MySQL), and have built a [CRUD app in Laravel]([laravel-crud-in-50-minutes-for-beginners-from-scratch](https://github.com/dialeleven/laravel-crud-in-50-minutes-for-beginners-from-scratch)) with numerous additions from my working experience (e.g. pagination, sorting, sending emails/attachements, middleware authentication, Blade templating, forgot/reset user passwords, PHPUnit testing, etc.). I'm also involved in frontend development (HTML5, CSS3, JavaScript) and working towards full-stack development.
 
 On my GitHub, you'll find a collection of projects where I've applied my skills to tackle real-world challenges and explore new technologies. From the [PHP Google Sitemap project](https://github.com/dialeleven/php-google-sitemap) to [PHPUnit tutorial from Freecodecamp.org](https://github.com/dialeleven/php_unit_freecodecamp), each repository reflects my dedication to craftsmanship and continuous learning.
 
