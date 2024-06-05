@@ -26,7 +26,7 @@ On my GitHub, you'll find a collection of projects where I've applied my skills 
 - On queue: Check out React & react-hook-form, Docker, Netlify
  
 ## 🤔 Future Skill Upgrades
-[![My Skills](https://skillicons.dev/icons?i=react,vue,nodejs,express,symfony,django,ts,redis,mongodb,docker,kubernetes,jenkins,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,nodejs,express,symfony,django,ts,redis,mongodb,docker,kubernetes,jenkins,netlify,elasticsearch)](https://skillicons.dev)
 
 **Text Version**
 - React, react-hook-form
