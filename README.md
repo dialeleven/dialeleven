@@ -11,6 +11,8 @@ On my GitHub, you'll find a collection of projects where I've applied my skills 
 #### :abacus: Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,postgres,html,css,tailwind,bootstrap,js,jquery,wordpress "php,laravel,mysql,postgres,html,css,tailwind,bootstrap,js,jquery,wordpress")](https://skillicons.dev)
 
+| PHP | Laravel | MySQL | PostgreSQL | HTML5 | CSS3 | Tailwind | Bootstrap | JavaScript | jQuery | WordPress
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg) | ![Laravel](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-original.svg) | ![MySQL](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) | ![HTML5](https://skillicons.dev/icons?i=html) | ![CSS3](https://skillicons.dev/icons?i=css)  | ![Tailwind](https://skillicons.dev/icons?i=tailwind)| ![CSS](https://skillicons.dev/icons?i=bootstrap) | ![Bootstrap](https://skillicons.dev/icons?i=js) | ![PostgreSQL](https://skillicons.dev/icons?i=jquery)   | ![PostgreSQL](https://skillicons.dev/icons?i=wordpress) 
 
 #### 🛠️ Source Code Management
