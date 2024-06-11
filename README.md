@@ -8,12 +8,43 @@ On my GitHub, you'll find a collection of projects where I've applied my skills 
 
 ## :computer: My Skills
 
+Languages
+
+| PHP | HTML5 | CSS3 | JavaScript | Python | XML 
+| :---: | :---: | :---: | :---: | :---: | :---: | 
+| ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg) | ![HTML5](https://skillicons.dev/icons?i=html) | ![CSS3](https://skillicons.dev/icons?i=css) | ![Bootstrap](https://skillicons.dev/icons?i=js) | ![Python](https://skillicons.dev/icons?i=python)  | ![XML](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/xml/xml-plain.svg)
+
+
+Frameworks
+
+Laravel | Tailwind | Bootstrap | jQuery |
+| :---: | :---: | :---: | :---: |
+| ![Laravel](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-original.svg) | ![Tailwind](https://skillicons.dev/icons?i=tailwind)| ![Bootstrap CSS](https://skillicons.dev/icons?i=bootstrap) | ![jQuery](https://skillicons.dev/icons?i=jquery)
+
+
+Databases
+
+MySQL | PostgreSQL | MS SQL Server |
+| :---: | :---: | :---: |
+| ![MySQL](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) | ![MS SQL Server](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/microsoftsqlserver/microsoftsqlserver-plain.svg)
+
+
+Source Code Management
+
+Git | GitHub |
+| :---: | :---: |
+| ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) |
+
+
+Operating Systems
+
+Windows | Linux | Apple |
+| :---: | :---: | :---: |
+| ![Git](https://skillicons.dev/icons?i=windows) | ![GitHub](https://skillicons.dev/icons?i=linux) | ![GitHub](https://skillicons.dev/icons?i=apple) |
+
+
 #### :abacus: Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,postgres,html,css,tailwind,bootstrap,js,jquery,wordpress "php,laravel,mysql,postgres,html,css,tailwind,bootstrap,js,jquery,wordpress")](https://skillicons.dev)
-
-| PHP | Laravel | MySQL | PostgreSQL | HTML5 | CSS3 | Tailwind | Bootstrap | JavaScript | jQuery | WordPress
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg) | ![Laravel](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-original.svg) | ![MySQL](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) | ![HTML5](https://skillicons.dev/icons?i=html) | ![CSS3](https://skillicons.dev/icons?i=css)  | ![Tailwind](https://skillicons.dev/icons?i=tailwind)| ![CSS](https://skillicons.dev/icons?i=bootstrap) | ![Bootstrap](https://skillicons.dev/icons?i=js) | ![PostgreSQL](https://skillicons.dev/icons?i=jquery)   | ![PostgreSQL](https://skillicons.dev/icons?i=wordpress) 
 
 #### 🛠️ Source Code Management
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
