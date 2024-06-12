@@ -53,10 +53,11 @@ npm | VS Code | Vim | Figma | PhotoShop
 - On queue: Check out React & react-hook-form, Docker, Netlify
  
 ## 🤔 Future Skill Upgrades
-[![My Skills](https://skillicons.dev/icons?i=react,vue,nodejs,express,symfony,django,ts,redis,mongodb,docker,kubernetes,jenkins,netlify,elasticsearch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,elasticsearch,vue,nodejs,express,symfony,django,ts,redis,mongodb,docker,kubernetes,jenkins,netlify)](https://skillicons.dev)
 
 **Text Version**
 - React, react-hook-form
+- Elasticsearch / OpenSearch
 - Vue, Vueform
 - Node.js
 - Express
@@ -70,7 +71,6 @@ npm | VS Code | Vim | Figma | PhotoShop
 - Jenkins
 - Netlify (deploy site(s) to [Netlify](https://app.netlify.com))
 - [Laravel Dusk](https://laravel.com/docs/11.x/dusk) browser tests
-- Elasticsearch / OpenSearch
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
