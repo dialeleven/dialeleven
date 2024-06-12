@@ -50,7 +50,7 @@ npm | VS Code | Vim | Figma | PhotoShop
 
 ## 🌱 Currently Exploring
 - 🚀 Navigating through the world of Laravel Framework and Tailwind CSS
-- On queue: Check out React & react-hook-form, Docker, Netlify
+- On queue: Check out React & react-hook-form, Docker, Elasticsearch/OpenSearch
  
 ## 🤔 Future Skill Upgrades
 [![My Skills](https://skillicons.dev/icons?i=react,elasticsearch,vue,nodejs,express,symfony,django,ts,redis,mongodb,docker,kubernetes,jenkins,netlify)](https://skillicons.dev)
