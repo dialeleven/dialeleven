@@ -8,6 +8,8 @@ On my GitHub, you'll find a collection of projects where I've applied my skills 
 
 ## :computer: My Skills
 
+Dev icons provided by https://github.com/devicons/devicon and https://skillicons.dev.
+
 **Languages**
 
 | PHP | HTML5 | CSS3 | JavaScript | Python | XML 
@@ -24,9 +26,9 @@ Laravel | Tailwind | Bootstrap | jQuery |
 
 **Databases**
 
-MySQL | PostgreSQL | MS SQL Server |
-| :---: | :---: | :---: |
-| ![MySQL](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) | ![MS SQL Server](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/microsoftsqlserver/microsoftsqlserver-plain.svg)
+MySQL | Redis | PostgreSQL | MS SQL Server |
+| :---: | :---: | :---: | :---: |
+| ![MySQL](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) | ![Redis](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/redis/redis-original.svg) | ![MS SQL Server](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/microsoftsqlserver/microsoftsqlserver-plain.svg)
 
 
 **Source Code Management**
@@ -62,7 +64,6 @@ npm | VS Code | Vim | Figma | PhotoShop
 - Node.js
 - Express
 - Symfony
-- Redis ([Redis in Laravel](https://laravel.com/docs/11.x/redis), [Redis in PHP](https://github.com/phpredis/phpredis/blob/develop/INSTALL.md))
 - Django
 - TypeScript
 - MongoDB
