@@ -52,23 +52,23 @@ npm | VS Code | Vim | Figma | PhotoShop
 
 ## 🌱 Currently Exploring
 - 🚀 Navigating through the world of Laravel Framework and Tailwind CSS
-- On queue: Check out React & react-hook-form, Docker, Elasticsearch/OpenSearch
+- On queue: Check out React, Docker
  
 ## 🤔 Future Skill Upgrades
-[![My Skills](https://skillicons.dev/icons?i=react,elasticsearch,vue,nodejs,express,symfony,django,ts,redis,mongodb,docker,kubernetes,jenkins,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,elasticsearch,vue,nodejs,express,symfony,django,ts,mongodb,docker,kubernetes,jenkins,netlify)](https://skillicons.dev)
 
 **Text Version**
 - React, react-hook-form
-- Elasticsearch / OpenSearch
 - Vue, Vueform
 - Node.js
 - Express
+- Elasticsearch *(looked into briefly - issues getting it to work with Laravel)* / OpenSearch
 - Symfony
 - Django
 - TypeScript
 - MongoDB
 - Docker
-- Kubernetes
+- Kubernetes(?)
 - Jenkins
 - Netlify (deploy site(s) to [Netlify](https://app.netlify.com))
 - [Laravel Dusk](https://laravel.com/docs/11.x/dusk) browser tests
