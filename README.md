@@ -28,10 +28,7 @@ Laravel | Tailwind | Bootstrap | jQuery |
 
 MySQL | Redis | PostgreSQL | MS SQL Server |
 | :---: | :---: | :---: | :---: |
-| ![MySQL](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg) 
-| ![Redis](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/redis/redis-original.svg) 
-| ![PostgreSQL](https://skillicons.dev/icons?i=postgres) 
-| ![MS SQL Server](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/microsoftsqlserver/microsoftsqlserver-plain.svg)
+| ![MySQL](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg) | ![Redis](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/redis/redis-original.svg) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) | ![MS SQL Server](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/microsoftsqlserver/microsoftsqlserver-plain.svg)
 
 
 **Source Code Management**
