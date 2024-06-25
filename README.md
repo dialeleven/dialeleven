@@ -17,7 +17,7 @@ Dev icons provided by https://github.com/devicons/devicon and https://skillicons
 | ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg) | ![HTML5](https://skillicons.dev/icons?i=html) | ![CSS3](https://skillicons.dev/icons?i=css) | ![Bootstrap](https://skillicons.dev/icons?i=js) | ![Python](https://skillicons.dev/icons?i=python)  | ![XML](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/xml/xml-plain.svg)
 
 
-**Frameworks**
+**Frameworks/Libraries**
 
 Laravel | Tailwind | Bootstrap | jQuery |
 | :---: | :---: | :---: | :---: |
