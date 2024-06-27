@@ -65,9 +65,8 @@ npm | VS Code | Vim | Figma | PhotoShop
 [![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,nodejs,express,elasticsearch,redux,symfony,django,ts,mongodb,docker,kubernetes,jenkins,netlify)](https://skillicons.dev)
 
 **Text Version**
-- React, react-hook-form
-- Vue, Vueform
-- [Next.js](https://nextjs.org) - React framework
+- React, react-hook-form, [Next.js](https://nextjs.org) - React framework
+- Vue, Vueform, Nuxt.js
 - Node.js
 - Express
 - [Redux](https://redux.js.org/)
