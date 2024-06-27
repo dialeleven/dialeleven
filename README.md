@@ -62,11 +62,12 @@ npm | VS Code | Vim | Figma | PhotoShop
 - On queue: Vue.js, Node.js
  
 ## 🤔 Future Skill Upgrades
-[![My Skills](https://skillicons.dev/icons?i=react,elasticsearch,vue,nodejs,express,redux,symfony,django,ts,mongodb,docker,kubernetes,jenkins,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,nodejs,express,elasticsearch,redux,symfony,django,ts,mongodb,docker,kubernetes,jenkins,netlify)](https://skillicons.dev)
 
 **Text Version**
 - React, react-hook-form
 - Vue, Vueform
+- Next.js
 - Node.js
 - Express
 - [Redux](https://redux.js.org/)
