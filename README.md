@@ -79,7 +79,7 @@ npm | VS Code | Vim | Figma | PhotoShop
 - Kubernetes(?)
 - Jenkins
 - Netlify (deploy site(s) to [Netlify](https://app.netlify.com))
-- [Laravel Dusk](https://laravel.com/docs/11.x/dusk) browser tests
+- Testing: [Laravel Dusk](https://laravel.com/docs/11.x/dusk) browser tests, [Codeception](https://codeception.com)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
