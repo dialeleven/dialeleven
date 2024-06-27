@@ -67,7 +67,7 @@ npm | VS Code | Vim | Figma | PhotoShop
 **Text Version**
 - React, react-hook-form
 - Vue, Vueform
-- Next.js
+- [Next.js](https://nextjs.org) - React framework
 - Node.js
 - Express
 - [Redux](https://redux.js.org/)
