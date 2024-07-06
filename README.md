@@ -51,6 +51,11 @@ Windows | Linux | Apple |
 | :---: | :---: | :---: |
 | ![Git](https://skillicons.dev/icons?i=windows) | ![GitHub](https://skillicons.dev/icons?i=linux) | ![GitHub](https://skillicons.dev/icons?i=apple) |
 
+**Hosting**
+
+Netlify | Apache | Microsoft IIS | Amazon AWS |
+| :---: | :---: | :---: | :---: |
+| ![Git](https://skillicons.dev/icons?i=netlify) | ![GitHub](https://skillicons.dev/icons?i=apache) | ![GitHub](https://skillicons.dev/icons?i=microsoft) | ![GitHub](https://skillicons.dev/icons?i=amazonaws) |
 
 **Software/Tools**
 npm | VS Code | Vim | Figma | PhotoShop
