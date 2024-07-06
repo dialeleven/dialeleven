@@ -55,7 +55,7 @@ Windows | Linux | Apple |
 
 Netlify | Apache | Microsoft IIS | Amazon AWS |
 | :---: | :---: | :---: | :---: |
-| ![Netlify](https://skillicons.dev/icons?i=netlify) | ![Apache]([https://skillicons.dev/icons?i=apache](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apache/apache-original.svg) | ![Microsoft IIS](https://skillicons.dev/icons?i=microsoft](https://logowik.com/content/uploads/images/microsoft-iis2928.jpg) | ![Amazon]([https://skillicons.dev/icons?i=amazonaws](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg) |
+| ![Netlify](https://skillicons.dev/icons?i=netlify) | ![Apache](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apache/apache-original.svg) | ![Microsoft IIS](https://logowik.com/content/uploads/images/microsoft-iis2928.jpg) | ![Amazon](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg) |
 
 **Software/Tools**
 npm | VS Code | Vim | Figma | PhotoShop
