@@ -58,14 +58,15 @@ npm | VS Code | Vim | Figma | PhotoShop
 | [![npm](https://skillicons.dev/icons?i=npm)](https://nodejs.org/en) | ![VS Code](https://skillicons.dev/icons?i=vscode) | ![Vim](https://skillicons.dev/icons?i=vim) | ![Figma](https://skillicons.dev/icons?i=figma) | ![PhotoShop](https://skillicons.dev/icons?i=ps)
 
 ## 🌱 Currently Exploring
-- 🚀 Navigating through the world of... React mostly now. Plus Laravel Framework and Tailwind CSS.
+- 🚀 Navigating through the world of... React mostly now. Plus Laravel Framework.
 - On queue: Vue.js, Node.js
  
 ## 🤔 Future Skill Upgrades
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,nodejs,express,elasticsearch,redux,symfony,django,ts,mongodb,docker,kubernetes,jenkins,netlify)](https://skillicons.dev)
 
 **Text Version**
-- React, react-hook-form, [Next.js](https://nextjs.org) - React framework
+- Software: [Wasp](https://wasp-lang.dev)
+- react-hook-form, [Next.js](https://nextjs.org) - React framework
 - Vue, Vueform, Nuxt.js
 - Node.js
 - Express
