@@ -26,9 +26,9 @@ Dev icons provided by https://github.com/devicons/devicon and https://skillicons
 
 **Frameworks/Libraries**
 
-Laravel | Tailwind | Bootstrap | jQuery |
-| :---: | :---: | :---: | :---: |
-| ![Laravel](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-original.svg) | ![Tailwind](https://skillicons.dev/icons?i=tailwind)| ![Bootstrap CSS](https://skillicons.dev/icons?i=bootstrap) | ![jQuery](https://skillicons.dev/icons?i=jquery)
+Laravel | React | Tailwind | Bootstrap | jQuery |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Laravel](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-original.svg) | ![React](https://skillicons.dev/icons?i=react) | ![Tailwind](https://skillicons.dev/icons?i=tailwind)| ![Bootstrap CSS](https://skillicons.dev/icons?i=bootstrap) | ![jQuery](https://skillicons.dev/icons?i=jquery)
 
 
 **Databases**
