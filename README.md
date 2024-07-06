@@ -70,12 +70,12 @@ npm | VS Code | Vim | Figma | PhotoShop
 [![My Skills](https://skillicons.dev/icons?i=nextjs,vue,nuxtjs,nodejs,express,elasticsearch,redux,symfony,django,ts,mongodb,docker,kubernetes,jenkins)](https://skillicons.dev)
 
 **Text Version**
-- Software: [Wasp](https://wasp-lang.dev)
 - react-hook-form, [Next.js](https://nextjs.org) - React framework
 - Vue, Vueform, Nuxt.js
 - Node.js
 - Express
 - [Redux](https://redux.js.org/)
+- Software: [Wasp](https://wasp-lang.dev)? - issues installing on Windows
 - Elasticsearch *(looked into briefly - issues getting it to work with Laravel)* / OpenSearch
 - Symfony
 - Django
