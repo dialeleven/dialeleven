@@ -51,7 +51,7 @@ Windows | Linux | Apple |
 | :---: | :---: | :---: |
 | ![Git](https://skillicons.dev/icons?i=windows) | ![GitHub](https://skillicons.dev/icons?i=linux) | ![GitHub](https://skillicons.dev/icons?i=apple) |
 
-**Hosting**
+**Hosting/CD**
 
 Netlify | Apache | Microsoft IIS | Amazon AWS |
 | :---: | :---: | :---: | :---: |
@@ -67,7 +67,7 @@ npm | VS Code | Vim | Figma | PhotoShop
 - On queue: Vue.js, Node.js
  
 ## 🤔 Future Skill Upgrades
-[![My Skills](https://skillicons.dev/icons?i=nextjs,vue,nuxtjs,nodejs,express,elasticsearch,redux,symfony,django,ts,mongodb,docker,kubernetes,jenkins,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,vue,nuxtjs,nodejs,express,elasticsearch,redux,symfony,django,ts,mongodb,docker,kubernetes,jenkins)](https://skillicons.dev)
 
 **Text Version**
 - Software: [Wasp](https://wasp-lang.dev)
