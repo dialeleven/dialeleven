@@ -63,8 +63,8 @@ npm | VS Code | Vim | Figma | PhotoShop
 | [![npm](https://skillicons.dev/icons?i=npm)](https://nodejs.org/en) | ![VS Code](https://skillicons.dev/icons?i=vscode) | ![Vim](https://skillicons.dev/icons?i=vim) | ![Figma](https://skillicons.dev/icons?i=figma) | ![PhotoShop](https://skillicons.dev/icons?i=ps)
 
 ## 🌱 Currently Exploring
-- 🚀 Navigating through the world of... React mostly now. Plus Laravel Framework.
-- On queue: Next.js, Vue.js/Nuxt.js, [Wasp](https://wasp-lang.dev), Node.js
+- 🚀 Navigating through the world of... Vue. Plus React and Laravel.
+- On queue: Next.js, Nuxt.js, [Wasp](https://wasp-lang.dev), Node.js
  
 ## 🤔 Future Skill Upgrades
 [![My Skills](https://skillicons.dev/icons?i=nextjs,vue,nuxtjs,nodejs,express,elasticsearch,redux,symfony,django,ts,mongodb,docker,kubernetes,jenkins)](https://skillicons.dev)
