@@ -1,6 +1,6 @@
 ## 👋 Hi, There!
 
-I'm Francis, a passionate web developer with a love for building innovative software solutions. I specialize in backend development, with expertise in the LAMP stack (Linux, Apache, PHP, MySQL) plus use of the Laravel framework.
+I'm Francis, a passionate web developer with a love for building innovative software solutions. I specialize in backend development, with expertise in the LAMP stack (Linux, Apache, PHP, MySQL) and skilled use of the Laravel framework. I'm venturing out in the frontend development world working with various frameworks and libraries like React.js and Vue.js.
 
 I've built a **[Laravel 11 CRUD app](https://github.com/dialeleven/laravel-crud-in-50-minutes-for-beginners-from-scratch)** with **numerous additions** from my working experience (e.g. pagination, sorting, sending emails/attachements, middleware authentication, Blade templating, forgot/reset user passwords, **PHPUnit** testing, **API consumption** (WeatherAPI), **Laravel Casher** (Stripe payments), **Redis** basics - install/config/session cache driver, etc.). I'm also involved in frontend development (HTML5, CSS3, JavaScript) and working towards full-stack development.
 
@@ -8,7 +8,7 @@ On my GitHub, you'll find a collection of **[projects](https://github.com/dialel
 
 - [Laravel 11 CRUD app](https://github.com/dialeleven/laravel-crud-in-50-minutes-for-beginners-from-scratch)
 - **[React Todo List App](https://github.com/dialeleven/react-todo-app-medium)**
-- **[Vue Todo List App](https://github.com/dialeleven/vue)** (in progress)
+- **[Vue Todo List App](https://github.com/dialeleven/vue)**
 - [PHP Google Sitemap project](https://github.com/dialeleven/php-google-sitemap) 
 - [PHPUnit tutorial from Freecodecamp.org](https://github.com/dialeleven/php_unit_freecodecamp)
 
