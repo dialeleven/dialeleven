@@ -70,11 +70,12 @@ npm | VS Code | Vim | Figma | PhotoShop
 - On queue: Next.js, Nuxt.js, [Wasp](https://wasp-lang.dev), Node.js
  
 ## 🤔 Future Skill Upgrades
-[![My Skills](https://skillicons.dev/icons?i=nextjs,vue,nuxtjs,nodejs,express,elasticsearch,redux,symfony,django,ts,mongodb,docker,kubernetes,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,nextjs,nuxtjs,nodejs,express,elasticsearch,redux,symfony,django,ts,mongodb,docker,kubernetes,jenkins)](https://skillicons.dev)
 
 **Text Version**
+- Angular
 - react-hook-form, [Next.js](https://nextjs.org) - React framework
-- Vue, Vueform, Nuxt.js
+- Vueform, Nuxt.js
 - Node.js
 - Express
 - [Redux](https://redux.js.org/)
