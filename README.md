@@ -67,7 +67,7 @@ npm | VS Code | Vim | Figma | PhotoShop
 
 ## 🌱 Currently Exploring
 - 🚀 Navigating through the world of... Vue. Plus React and Laravel.
-- On queue: Next.js, Nuxt.js, [Wasp](https://wasp-lang.dev), Node.js
+- On queue: Angular?, Next.js, Nuxt.js, [Wasp](https://wasp-lang.dev), Node.js
  
 ## 🤔 Future Skill Upgrades
 [![My Skills](https://skillicons.dev/icons?i=angular,nextjs,nuxtjs,nodejs,express,elasticsearch,redux,symfony,django,ts,mongodb,docker,kubernetes,jenkins)](https://skillicons.dev)
