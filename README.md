@@ -2,7 +2,7 @@
 
 I'm Francis, a passionate web developer with a love for building innovative software solutions. I specialize in backend development, with expertise in the LAMP stack (Linux, Apache, PHP, MySQL) and skilled use of the Laravel framework. I'm venturing out in the frontend development world working with various frameworks and libraries like React.js and Vue.js.
 
-I've built a **[Laravel 11 CRUD app](https://github.com/dialeleven/laravel-crud-in-50-minutes-for-beginners-from-scratch)** with **numerous additions** from my working experience (e.g. pagination, sorting, sending emails/attachements, middleware authentication, Blade templating, forgot/reset user passwords, **PHPUnit** testing, **API consumption** (WeatherAPI), **Laravel Casher** (Stripe payments), **Redis** basics - install/config/session cache driver, etc.). I'm also involved in frontend development (HTML5, CSS3, JavaScript) and working towards full-stack development.
+I've built a **[Laravel 11 CRUD app](https://github.com/dialeleven/laravel-crud-in-50-minutes-for-beginners-from-scratch)** with **numerous additions** from my working experience (e.g. pagination, sorting, sending emails/attachements, middleware authentication, Blade templating, forgot/reset user passwords, **PHPUnit** testing, **API consumption** (WeatherAPI), **Laravel Cashier** (Stripe payments), **Redis** basics - install/config/session cache driver, etc.). I'm also involved in frontend development (HTML5, CSS3, JavaScript) and working towards full-stack development.
 
 On my GitHub, you'll find a collection of **[projects](https://github.com/dialeleven?tab=repositories)** tackling various challenges and exploring new technologies. Here are some highlights:
 
