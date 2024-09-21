@@ -9,6 +9,7 @@ On my GitHub, you'll find a collection of **[projects](https://github.com/dialel
 - [Laravel 11 CRUD app](https://github.com/dialeleven/laravel-crud-in-50-minutes-for-beginners-from-scratch)
 - **[React Todo List App](https://github.com/dialeleven/react-todo-app-medium)**
 - **[Vue Todo List App](https://github.com/dialeleven/vue)**
+- **[Angular Todo List App](https://github.com/dialeleven/angular-todo-app)**
 - [PHP Google Sitemap project](https://github.com/dialeleven/php-google-sitemap) 
 - [PHPUnit tutorial from Freecodecamp.org](https://github.com/dialeleven/php_unit_freecodecamp)
 
@@ -29,9 +30,9 @@ Dev icons provided by https://github.com/devicons/devicon and https://skillicons
 
 **Frameworks/Libraries**
 
-Laravel | React | Vue | Tailwind | Bootstrap | jQuery |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Laravel](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-original.svg) | ![React](https://skillicons.dev/icons?i=react) | ![Vue](https://skillicons.dev/icons?i=vue) | ![Tailwind](https://skillicons.dev/icons?i=tailwind)| ![Bootstrap CSS](https://skillicons.dev/icons?i=bootstrap) | ![jQuery](https://skillicons.dev/icons?i=jquery)
+Laravel | React | Vue | Angular | Tailwind | Bootstrap | jQuery |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Laravel](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-original.svg) | ![React](https://skillicons.dev/icons?i=react) | ![Vue](https://skillicons.dev/icons?i=vue) | ![Angular](https://skillicons.dev/icons?i=angular)| ![Tailwind](https://skillicons.dev/icons?i=tailwind)| ![Bootstrap CSS](https://skillicons.dev/icons?i=bootstrap) | ![jQuery](https://skillicons.dev/icons?i=jquery)
 
 
 **Databases**
@@ -70,10 +71,9 @@ npm | VS Code | Vim | Figma | PhotoShop
 - On queue: Next.js, Nuxt.js, [Wasp](https://wasp-lang.dev), Node.js
  
 ## 🤔 Future Skill Upgrades
-[![My Skills](https://skillicons.dev/icons?i=angular,nextjs,nuxtjs,nodejs,express,elasticsearch,redux,symfony,django,ts,mongodb,docker,kubernetes,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,nuxtjs,nodejs,express,elasticsearch,redux,symfony,django,ts,mongodb,docker,kubernetes,jenkins)](https://skillicons.dev)
 
 **Text Version**
-- Angular
 - react-hook-form, [Next.js](https://nextjs.org) - React framework
 - Vueform, Nuxt.js
 - Node.js
